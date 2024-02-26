@@ -30,7 +30,7 @@ entities:
 
 Configuration.ymal 
 
-``` ymal
+``` yaml
 - id: '1631481683157'
   alias: Aviso de bateria baixa
   description: ''
