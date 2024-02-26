@@ -27,3 +27,19 @@ entities:
   - entity: sensor.yrd226_battery
   - entity: sensor.tyeb144d0f4300eb4d5dycai
 ```
+
+Configuration.ymal 
+
+``` ymal
+- id: '1631481683157'
+  alias: Aviso de bateria baixa
+  description: ''
+  use_blueprint:
+    path: sbyx/low-battery-level-detection-notification-for-all-battery-sensors.yaml
+    input:
+      threshold: 40
+      actions:
+      - service: notify.persistent_notification
+        data:
+          message: Os sensores {{sensors}} estão com bateria baixa!
+```
