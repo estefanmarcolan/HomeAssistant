@@ -1,4 +1,4 @@
-``` ymal
+``` yaml
 
       # Configuração para mostra o status por Whats (Potencia) Secadora
       status_secadora:
