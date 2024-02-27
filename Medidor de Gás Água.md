@@ -35,7 +35,7 @@ mode: single
 
 ![image](https://github.com/estefanmarcolan/HomeAssistant/assets/153628041/27ffae65-d6c4-4a68-883a-0738d5e72396)
 
-3 - Passo configuração no Fule Editor: 
+3 - Passo configurações no file Editor: 
 
 Configurações necessárias em  ``File Editor`` e ``Configuration.yaml``
 
@@ -66,7 +66,7 @@ homeassistant:
   customize: !include customize.yaml
 ```
 
-Codigo de reset dentro da pasta customize: 
+Código de reset dentro da pasta customize: 
 
 Em ``sensor`` colocar a entidade criada em endidades ajudantes
 
