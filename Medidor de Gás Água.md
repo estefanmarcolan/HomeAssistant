@@ -68,7 +68,7 @@ homeassistant:
 
 Código de reset dentro da pasta customize: 
 
-Em ``sensor`` colocar a entidade criada em endidades ajudantes
+Em ``sensor`` colocar a entidade criada em entidades ajudantes
 
 ```yaml
 sensor.gasmeter:
