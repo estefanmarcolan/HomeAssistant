@@ -13,7 +13,9 @@ Vídeo explicativo:
 
 https://www.youtube.com/watch?si=3WQh7MWvurOQ3KsZ&embeds_referring_euri=http%3A%2F%2Fwww.patte.com.br%2F&source_ve_path=MTY0NTA2&feature=emb_share&v=46-AI6GV0CE
 
-Card (LoveLace)
+Para usar a automação, após instalar o projeto clicar em criar automação! 
+
+Card (LoveLace) 
 
 ``` yaml
 type: custom:battery-state-card
@@ -33,7 +35,7 @@ entities:
   - entity: sensor.tyeb144d0f4300eb4d5dycai
 ```
 
-Configuration.ymal 
+ymal em Automação
 
 ``` yaml
 - id: '1631481683157'
@@ -48,3 +50,8 @@ Configuration.ymal
         data:
           message: Os sensores {{sensors}} estão com bateria baixa!
 ```
+
+![image](https://github.com/estefanmarcolan/HomeAssistant/assets/153628041/63f45aaf-d609-47ae-9dc1-9f130646080d)
+
+
+
