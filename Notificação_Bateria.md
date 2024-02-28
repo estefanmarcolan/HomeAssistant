@@ -6,7 +6,7 @@ Projeto para importação (Blueprint): Link para importar: https://gist.github.c
 
 Caminho: `` Configurações ``  ``Automações`` e ``Modelos Blueprints``
 
-![image](https://github.com/estefanmarcolan/HomeAssistant/assets/153628041/ead50aef-a2f2-472c-9a8c-bd9c6fbd0c2d)
+![image](https://github.com/estefanmarcolan/HomeAssistant/assets/153628041/7272ad6d-8233-477d-a6af-b20120d66e1a)
 
 
 Vídeo explicativo: 
