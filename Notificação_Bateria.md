@@ -2,7 +2,7 @@ Como desenvolver notificação unificadas dos status de bateria
 
 Card Battery: https://github.com/maxwroc/battery-state-card (Instalação via HACS)
 
-Projeto para importação (Blueprint): Clique para importar
+Projeto para importação (Blueprint): Clique para importar: https://my.home-assistant.io/create-link/?redirect=blueprint_import&blueprint_url=https%3A%2F%2Fgist.github.com%2Fsbyx%2F1f6f434f0903b872b84c4302637d0890
 
 Vídeo explicativo: 
 
