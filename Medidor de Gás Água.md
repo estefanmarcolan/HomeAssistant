@@ -72,6 +72,10 @@ Em ``sensor`` colocar a entidade criada em entidades ajudantes
 
 ```yaml
 sensor.gasmeter:
-  state_class: measurement
+  state_class: total_increasing
+  last_reset: '2021-08-20T06:43:36.740703+00:00'
+  
+sensor.watermete:
+  state_class: total_increasing
   last_reset: '2021-08-20T06:43:36.740703+00:00'
 ```
