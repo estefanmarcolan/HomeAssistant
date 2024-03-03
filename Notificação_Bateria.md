@@ -53,5 +53,15 @@ ymal em Automação
 
 ![image](https://github.com/estefanmarcolan/HomeAssistant/assets/153628041/63f45aaf-d609-47ae-9dc1-9f130646080d)
 
+``` yaml
+
+service: notify.notify
+metadata: {}
+data:
+  title: Nível Baterias Baixa
+  message: Os Senssores {{ Sensores }} estão com baterial baixa.
+
+```
+
 
 
